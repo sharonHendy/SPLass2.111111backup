@@ -1,0 +1,134 @@
+{
+  "cpuTimeUsed": 4201,
+  "gpuTimeUsed": 1300,
+  "students": [
+    {
+      "papersRead": 3,
+      "name": "Simba",
+      "department": "Computer Science",
+      "trainedModels": [],
+      "status": "MSc",
+      "publications": 0
+    },
+    {
+      "papersRead": 3,
+      "name": "Zazu",
+      "department": "EE",
+      "trainedModels": [],
+      "status": "PhD",
+      "publications": 0
+    },
+    {
+      "papersRead": 2,
+      "name": "Pumba",
+      "department": "Computer Science",
+      "trainedModels": [
+        {
+          "result": "Good",
+          "data": {
+            "size": 1000000,
+            "type": "Text"
+          },
+          "name": "GPT4",
+          "status": "Tested"
+        }
+      ],
+      "status": "PhD",
+      "publications": 1
+    },
+    {
+      "papersRead": 2,
+      "name": "Timon",
+      "department": "SE",
+      "trainedModels": [
+        {
+          "result": "Good",
+          "data": {
+            "size": 100000,
+            "type": "Tabular"
+          },
+          "name": "GNN",
+          "status": "Tested"
+        }
+      ],
+      "status": "PhD",
+      "publications": 1
+    },
+    {
+      "papersRead": 2,
+      "name": "Nala",
+      "department": "Computer Science",
+      "trainedModels": [
+        {
+          "result": "Good",
+          "data": {
+            "size": 100000,
+            "type": "Tabular"
+          },
+          "name": "YOLO9000",
+          "status": "Tested"
+        }
+      ],
+      "status": "PhD",
+      "publications": 1
+    }
+  ],
+  "batchesProcessed": 1200,
+  "conferences": [
+    {
+      "date": 20000,
+      "name": "ICML",
+      "publications": [
+        {
+          "result": "Good",
+          "data": {
+            "size": 1000000,
+            "type": "Text"
+          },
+          "name": "GPT4",
+          "status": "Tested"
+        }
+      ]
+    },
+    {
+      "date": 25000,
+      "name": "NeurIPS",
+      "publications": [
+        {
+          "result": "Good",
+          "data": {
+            "size": 100000,
+            "type": "Tabular"
+          },
+          "name": "YOLO9000",
+          "status": "Tested"
+        }
+      ]
+    },
+    {
+      "date": 30000,
+      "name": "CVPR",
+      "publications": [
+        {
+          "result": "Good",
+          "data": {
+            "size": 100000,
+            "type": "Tabular"
+          },
+          "name": "GNN",
+          "status": "Tested"
+        }
+      ]
+    },
+    {
+      "date": 40000,
+      "name": "ECCV",
+      "publications": []
+    },
+    {
+      "date": 50000,
+      "name": "AISTATS",
+      "publications": []
+    }
+  ]
+}
